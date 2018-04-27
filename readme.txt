@@ -6,3 +6,4 @@ Creating a new branch is quick
 this is a example
 Creating a new branch is quick AND simple.
 分支管理策略
+BUg test
